@@ -1,1 +1,2 @@
 "Ini adalah revisi kedua resep saya."
+"Sekarang saya sudah jago Git lohhh!!!"
