@@ -10,3 +10,4 @@ Hari ini saya belajar bahwa:
 - `code [nama_file]` : Membuka file di editor VS Code.
 - `sudo apt update` : Memperbarui katalog aplikasi.
 - `neofetch` : Menampilkan info sistem dengan logo keren.
+Test Update Github
