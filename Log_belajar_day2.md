@@ -9,3 +9,8 @@
    - Memahami `umask` sebagai filter izin default.
 
 Status: **Praktik Selesai dan Berhasil!**
+
+## Update Materi Navigasi Linux:
+- Pindah terminal dari PowerShell ke Ubuntu (Berhasil!).
+- Belajar navigasi struktur filesystem (`/etc`, `/var`, `/home`).
+- Latihan perintah dasar: `ls -la`, `cd`, `touch`, `cp`, `mv`, `rm`.
