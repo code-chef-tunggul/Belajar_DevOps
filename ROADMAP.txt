@@ -1,0 +1,76 @@
+============================================================
+       CHEF DEWO'S DEVOPS JOURNEY: 6-MONTH ROADMAP
+          (From Sushi Kitchen to Global Cloud)
+============================================================
+
+TARGET: 1.5 - 2 Jam Belajar / Hari
+LOKASI: Zagreb, Croatia
+GOAL: Ready for Global Remote Jobs
+
+------------------------------------------------------------
+FASE 1: THE LINUX WARRIOR (Bulan 1 | Hari 1-30)
+Fokus: Terminal Master & Filesystem
+------------------------------------------------------------
+[M1] Navigasi: ls, cd, pwd, mkdir, touch, cp, mv, rm.
+[M2] Text Power: cat, less, grep, head, tail, nano/vim.
+[M3] Security: chmod, chown, sudo, useradd, id.
+[M4] System: apt update/install, systemctl start/stop/status.
+OUTPUT: Berhasil setup Nginx static website via Terminal.
+
+------------------------------------------------------------
+FASE 2: THE CONNECTIVITY (Bulan 2 | Hari 31-60)
+Fokus: Git & Networking Dasar
+------------------------------------------------------------
+[M5] Networking: IP, Subnet, DNS, ping, curl, wget.
+[M6] SSH: ssh-keygen, ssh-copy-id, config file.
+[M7] Git Core: init, add, commit, push, pull, status.
+[M8] Git Team: Branching, Merging, Pull Request.
+OUTPUT: Seluruh jurnal Day 1-60 tersinkronisasi di GitHub.
+
+------------------------------------------------------------
+FASE 3: THE AUTOMATOR (Bulan 3 | Hari 61-90)
+Fokus: Bash Scripting & Cron
+------------------------------------------------------------
+[M9] Bash Basic: Variables, user input (read), if-else.
+[M10] Bash Advanced: Loops (for/while), functions.
+[M11] Scheduling: Crontab (Otomatisasi jadwal tugas).
+[M12] MINI PROJECT: Script Backup & Monitor Disk otomatis.
+OUTPUT: "Robot" pengawas server buatan sendiri.
+
+------------------------------------------------------------
+FASE 4: THE CONTAINER (Bulan 4 | Hari 91-120)
+Fokus: Docker & Isolation
+------------------------------------------------------------
+[M13] Docker Concept: Image vs Container, Architecture.
+[M14] Dockerfile: Build image aplikasi sendiri.
+[M15] Compose: Multi-container (Web + Database).
+[M16] Registry: Push image ke Docker Hub.
+OUTPUT: Aplikasi "Sushi-App" berjalan stabil di Container.
+
+------------------------------------------------------------
+FASE 5: THE CLOUD PIPELINE (Bulan 5 | Hari 121-150)
+Fokus: CI/CD & Infrastructure as Code
+------------------------------------------------------------
+[M17] CI/CD: GitHub Actions (Automated workflow).
+[M18] Pipeline: Auto-build & Auto-test saat push code.
+[M19] Cloud: AWS/GCP (VPS, VPC, Security Groups).
+[M20] Terraform: Setup server cloud pakai kode (IaC).
+OUTPUT: Push code ke Git -> Server Cloud update otomatis.
+
+------------------------------------------------------------
+FASE 6: THE GUARDIAN (Bulan 6 | Hari 151-180)
+Fokus: Monitoring & Kubernetes
+------------------------------------------------------------
+[M21] Monitoring: Prometheus & Grafana Dashboard.
+[M22] Logging: Journalctl & Log analysis.
+[M23] K8s Basic: Pods, Deployment, Services.
+[M24] FINAL PROJECT: Deploy Full Stack App with Monitoring.
+OUTPUT: Portofolio lengkap siap lamar kerja Global.
+
+------------------------------------------------------------
+GOLDEN RULES:
+1. "No Day Without Push" (Tiada hari tanpa git push).
+2. "CLI First" (Lupakan klik kanan, gunakan keyboard).
+3. "Document Everything" (Tulis semua error di jurnal).
+4. "Stay Cool" (Otak panas? Stop, istirahat, lanjut besok).
+------------------------------------------------------------
