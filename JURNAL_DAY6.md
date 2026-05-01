@@ -1,5 +1,5 @@
-# JURNAL DAY 6
 
+# JURNAL DAY 6
 ## Pembelajaran Hari Ini
 
 ### Kill Process
